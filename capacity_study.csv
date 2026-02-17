@@ -1,0 +1,4 @@
+Model,Params,Train Acc,Val Acc,Gen Gap,Overfit Epoch
+Model A (Small),1059306,99.6375,59.7,39.9375,5
+Model B (Baseline),2122186,97.4125,59.9,37.512499999999996,4
+Model C (Large),4275594,98.8125,58.8,40.0125,5
